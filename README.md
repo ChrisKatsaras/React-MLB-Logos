@@ -1,6 +1,6 @@
-# React MLF Logos
+# React MLB Logos
 
-> React components for MLF team logos
+> React components for MLB team logos
 
 ![image](https://user-images.githubusercontent.com/11506653/74988213-3d6abc00-540b-11ea-9a5e-328b15059f46.png)
 
