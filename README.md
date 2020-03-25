@@ -1,5 +1,7 @@
 # React MLB Logos
 
+![npm](https://img.shields.io/npm/v/react-mlb-logos)
+
 > React components for MLB team logos
 
 ![image](https://user-images.githubusercontent.com/11506653/74988213-3d6abc00-540b-11ea-9a5e-328b15059f46.png)
